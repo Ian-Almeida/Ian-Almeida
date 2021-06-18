@@ -4,10 +4,6 @@
 
 💼 Atualmente sou estágiario da <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL</a>, auxiliando no desenvolvimento do sistema da empresa. Utiliza-se TypeScript/VueJS/Vuetify para o frontend e no backend Python/FastApi/PostgreSQL
 
-🌱 Possuo um projeto pessoal <strong>em desenvolvimento</strong> que utiliza TypeScript/React para o frontend e Python/FastApi/MongoDB no backend.
-
-🎓 Além da participação de um projeto profissional, possuo projetos em Java, C++, Java/Android, que foram desenvolvidos durante as aulas da faculdade.
-
 <code><a><img href="https://www.linkedin.com/in/ian-pinto-de-almeida-02830a182" height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>.
 
 ----
