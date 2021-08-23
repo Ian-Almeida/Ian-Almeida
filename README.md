@@ -2,7 +2,7 @@
 
 > Iniciei minha graduação em 2019 na <a href="https://univali.br">UNIVALI</a> no curso de Engenharia de Computação.
 
-💼 Atualmente sou estágiario da <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL</a>, auxiliando no desenvolvimento do sistema da empresa. Utiliza-se TypeScript/VueJS/Vuetify para o frontend e no backend Python/FastApi/PostgreSQL
+💼 Atualmente sou estágiario de desenvolvimento na <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL</a>, auxiliando no desenvolvimento do sistema da empresa. Utiliza-se TypeScript/VueJS/Vuetify para o frontend e no backend Python/FastApi/PostgreSQL
 
 https://www.linkedin.com/in/ian-pinto-de-almeida-02830a182
 
