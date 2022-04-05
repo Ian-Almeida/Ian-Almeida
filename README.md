@@ -2,7 +2,10 @@
 
 > Iniciei minha graduação em 2019 na <a href="https://univali.br">UNIVALI</a> no curso de Engenharia de Computação.
 
-💼 Atualmente sou estágiario de desenvolvimento na <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL</a>, auxiliando no desenvolvimento do sistema da empresa. Utiliza-se TypeScript/VueJS/Vuetify para o frontend e no backend Python/FastApi/PostgreSQL
+💼 (out.2020 - out.2021) Estágiario de desenvolvimento na <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL LTDA.</a>, auxiliando no desenvolvimento do sistema da empresa. Utiliza-se TypeScript/VueJS/Vuetify para o frontend e no backend Python/FastApi/PostgreSQL
+
+
+💼 (out.2021 - presente) Desenvolvedor Full Stack na <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL LTDA.</a>, dando continuidade ao trabalho já feio no período do estágio.
 
 https://www.linkedin.com/in/ian-pinto-de-almeida-02830a182
 
@@ -27,17 +30,14 @@ https://www.linkedin.com/in/ian-pinto-de-almeida-02830a182
     <code><img height="32" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostegreSQL"/></code>
     <code><img height="32" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></code>
     <code><img height="32" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
-   </>
+    <code><img height="32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></code>
+    <code><img height="32" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></code>
+    <code><img height="32" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></code>
+  </>
    ###### Básico:
    <>
     <code><img height="32" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></code>
   </>
-   ###### Por conta da Faculdade:
-   <>
-    <code><img height="32" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/></code>
-    <code><img height="32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></code>
-    <code><img height="32" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></code>
-    <code><img height="32" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office"/></code></>
 
 ---
 
