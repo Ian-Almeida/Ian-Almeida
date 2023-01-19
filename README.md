@@ -41,6 +41,8 @@ https://www.linkedin.com/in/ian-pinto-de-almeida-02830a182
 
 ---
 
+[![Ian-Almeida](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Almeida&hide=html&layout=compact&theme=dark)](https://github.com/Ian-Almeida/)
+
 ## ⭐ Meu Github
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Almeida&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ian-Almeida&show_icons=true)
