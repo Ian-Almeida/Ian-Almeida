@@ -5,7 +5,9 @@
 💼 (out.2020 - out.2021) Estágiario de desenvolvimento na <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL LTDA.</a>, auxiliando no desenvolvimento do sistema da empresa. Utiliza-se TypeScript/VueJS/Vuetify para o frontend e no backend Python/FastApi/PostgreSQL
 
 
-💼 (out.2021 - presente) Desenvolvedor Full Stack na <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL LTDA.</a>, dando continuidade ao trabalho já feio no período do estágio.
+💼 (out.2021 - nov.2022) Desenvolvedor Full Stack na <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL LTDA.</a>, dando continuidade ao trabalho já feio no período do estágio.
+
+💼 (nov.2022 - presente) Desenvolvedor Full Stack na <a href="https://www.disrux.com/">Disrux</a>, atuando em frentes voltadas ao mundo cripto, criação de ferramentas, sites e automatização de processos.
 
 https://www.linkedin.com/in/ian-pinto-de-almeida-02830a182
 
